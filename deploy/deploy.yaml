@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: syedarbaz/python-app:v1
+        image: syedarbaz/python-app:1.0
         ports:
         - containerPort: 8000
